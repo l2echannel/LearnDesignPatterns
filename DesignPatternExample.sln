@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.808.5
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatternExample", "DesignPatternExample\DesignPatternExample.csproj", "{289557A1-DD36-4842-93CB-E9AC7EE22404}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderDesignPattern", "BuilderDesignPattern\BuilderDesignPattern.csproj", "{6D3FC44E-3B9E-4D03-9508-69F069A6C792}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -15,6 +17,10 @@ Global
 		{289557A1-DD36-4842-93CB-E9AC7EE22404}.Debug|anycpu.Build.0 = Debug|anycpu
 		{289557A1-DD36-4842-93CB-E9AC7EE22404}.Release|anycpu.ActiveCfg = Release|anycpu
 		{289557A1-DD36-4842-93CB-E9AC7EE22404}.Release|anycpu.Build.0 = Release|anycpu
+		{6D3FC44E-3B9E-4D03-9508-69F069A6C792}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{6D3FC44E-3B9E-4D03-9508-69F069A6C792}.Debug|anycpu.Build.0 = Debug|anycpu
+		{6D3FC44E-3B9E-4D03-9508-69F069A6C792}.Release|anycpu.ActiveCfg = Release|anycpu
+		{6D3FC44E-3B9E-4D03-9508-69F069A6C792}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
